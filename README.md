@@ -1,1 +1,5 @@
 # Digital_filter
+Come prova finale del mio percorso di Laurea, ho prodotto una relazione tecnica relativa a un'esercitazione sperimentale di laboratorio, svolta in gruppo come parte di un esame del terzo anno.
+Il progetto consisteva nella realizzazione di un filtro digitale, ovvero un circuito che svolge una serie di operazioni aritmetiche su dati numerici in ingresso, tramite la sua descrizione e la sua sintesi in linguaggio VHDL.
+L'approccio al problema ha richiesto il design del data path, i cui elementi sono stati descritti tramite VHDL, e la modellizzazione schematica della Control Unit come macchina a stati finiti. Nella relazione vengono descritti in dettaglio l'architettura del circuito e la serie di istruzioni a cui il dato in input viene sottoposto, supportati da disegni e timing diagrams. 
+L'analisi del funzionamento del circuito è stata svolta tramite la creazione di un testbench e la simulazione in VHDL del codice (nell'ambiente ModelSim). Infine i risultati numerici sono stati confrontati con quelli ottenuti da un modello di riferimento MATLAB.
